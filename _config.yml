@@ -1,14 +1,14 @@
-layout_spectrum: 0.015129787381738424
-typography_spectrum: 0.7802588862832636
+layout_spectrum: 0.5264985102694482
+typography_spectrum: 0.7137592071667314
 color:
-  brandStrength: 0.059121923288330436
-  lightness: 0.01392321684397757
-  saturation: 0.9220346475485712
-  rhythmicContrast: 0.16123059391975403
+  brandStrength: 0.9693076955154538
+  lightness: 0.6630314618814737
+  saturation: 0.6056634564884007
+  rhythmicContrast: 0.08536067744717002
   brandColors:
-    - '#04BFBF'
-    - '#CAFCD8'
-    - '#F7E967'
-    - '#A9CF54'
-    - '#588F27'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: Community Education Development Associatoin
