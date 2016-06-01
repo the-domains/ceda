@@ -1,0 +1,14 @@
+layout_spectrum: 0.015129787381738424
+typography_spectrum: 0.7802588862832636
+color:
+  brandStrength: 0.059121923288330436
+  lightness: 0.01392321684397757
+  saturation: 0.9220346475485712
+  rhythmicContrast: 0.16123059391975403
+  brandColors:
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+name: CEDA
